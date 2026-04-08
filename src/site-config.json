@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Innovative Fence, Inc",
+    "phone": "+15624086000",
+    "category": "fence contractor",
+    "city": "Long Beach",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Long Beach's Trusted Fence Experts",
+      "heroSubline": "Durable, custom fences built to withstand the California climate. Serving Los Angeles County with quality craftsmanship.",
+      "aboutTitle": "Built on Integrity, Rooted in Long Beach",
+      "aboutText": [
+        "Innovative Fence, Inc. started with a simple goal: to provide Long Beach residents with fences that not only look great but also stand the test of time. Founded by a Long Beach native, we understand the unique challenges our coastal climate presents, from intense sun to occasional flooding.",
+        "We approach every project with a commitment to quality, using only the best materials and proven techniques. Our team takes pride in delivering exceptional results, whether it's a small repair or a complete fence installation. We believe in clear communication, transparent pricing, and exceeding expectations.",
+        "As a local business, we're deeply invested in the Long Beach community. We support local initiatives and strive to be a responsible neighbor. When you choose Innovative Fence, you're not just getting a fence; you're supporting a business that cares about its community."
+      ],
+      "valueProps": [
+        {
+          "title": "Climate-Resistant Materials",
+          "description": "We select materials specifically for Long Beach's weather, ensuring longevity and minimal maintenance."
+        },
+        {
+          "title": "Custom Designs",
+          "description": "From classic Craftsman to modern styles, we tailor every fence to complement your home's architecture."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our skilled team ensures precise installation for maximum stability and performance."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "We provide clear, detailed quotes with no hidden fees, so you know exactly what to expect."
+        }
+      ],
+      "ctaHeadline": "Protect Your Property Today",
+      "ctaSubline": "Get a free estimate for your custom fence project in Long Beach and surrounding areas."
+    },
+    "services": [
+      {
+        "slug": "wood-fences",
+        "name": "Wood Fences",
+        "shortDescription": "Classic wood fences, customized for Long Beach properties.",
+        "description": "Wood fences offer timeless appeal and natural beauty, making them a popular choice for Long Beach homeowners. At Innovative Fence, Inc., we specialize in building wood fences that are both aesthetically pleasing and durable enough to withstand the California climate. We offer a variety of wood types, including redwood, cedar, and pressure-treated pine, each selected for its resistance to rot, insects, and the damaging effects of UV rays. \n\nOur wood fence options range from traditional picket fences to privacy fences and decorative designs. We work closely with you to create a custom design that complements your home's architecture and meets your specific needs. Whether you're looking to enhance your property's curb appeal or create a secure backyard space, our wood fences provide a versatile and attractive solution. \n\nWe understand the importance of proper installation, especially in an area prone to earthquakes and strong Santa Ana winds. Our experienced installers use proven techniques to ensure your wood fence is securely anchored and built to last. We also offer staining and sealing services to protect your fence from the elements and maintain its beauty for years to come.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your needs and create a custom design.",
+          "Step 2: Material Selection – We help you choose the best wood for your budget and aesthetic preferences.",
+          "Step 3: Professional Installation – Our skilled team ensures precise and secure installation.",
+          "Step 4: Finishing Touches – We offer staining and sealing to protect your fence."
+        ],
+        "benefits": [
+          "Enhanced curb appeal",
+          "Increased privacy and security",
+          "Natural and sustainable material",
+          "Customizable designs"
+        ],
+        "faq": [
+          {
+            "question": "What type of wood is best for a fence in Long Beach?",
+            "answer": "Redwood and cedar are excellent choices due to their natural resistance to rot and insects. Pressure-treated pine is also a good option for its affordability and durability."
+          },
+          {
+            "question": "How often should I stain or seal my wood fence?",
+            "answer": "We recommend staining or sealing your wood fence every 2-3 years to protect it from the elements and maintain its appearance."
+          },
+          {
+            "question": "Can you match my existing fence style?",
+            "answer": "Yes, we can create a custom wood fence that matches your existing fence style and complements your home's architecture."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-fences",
+        "name": "Vinyl Fences",
+        "shortDescription": "Low-maintenance vinyl fences for Long Beach's busy homeowners.",
+        "description": "Vinyl fences are a practical and attractive option for homeowners in Long Beach who want a durable, low-maintenance fencing solution. Unlike wood, vinyl fences won't rot, warp, or splinter, and they never need painting or staining. This makes them an ideal choice for our coastal climate, where intense sun and occasional moisture can take a toll on traditional materials.\n\nInnovative Fence, Inc. offers a wide variety of vinyl fence styles, from classic picket fences to privacy fences and decorative designs. We use high-quality vinyl that is UV-resistant, ensuring it won't fade or discolor over time. Our vinyl fences are also impact-resistant, capable of withstanding strong winds and everyday wear and tear.\n\nInstallation is crucial for vinyl fences to perform optimally. Our experienced team ensures precise installation, paying close attention to post depth and alignment. We also offer a range of color options to match your home's exterior and landscaping. With a vinyl fence from Innovative Fence, Inc., you can enjoy a beautiful, long-lasting fence without the hassle of constant maintenance.",
+        "process": [
+          "Step 1: Site Assessment – We evaluate your property and discuss your fencing needs.",
+          "Step 2: Design and Selection – We help you choose the perfect vinyl fence style and color.",
+          "Step 3: Professional Installation – Our team ensures precise and secure installation.",
+          "Step 4: Final Inspection – We conduct a thorough inspection to ensure your satisfaction."
+        ],
+        "benefits": [
+          "Low maintenance",
+          "Durable and long-lasting",
+          "UV-resistant",
+          "Variety of styles and colors"
+        ],
+        "faq": [
+          {
+            "question": "How long will a vinyl fence last?",
+            "answer": "A high-quality vinyl fence can last 20-30 years or more with minimal maintenance."
+          },
+          {
+            "question": "Can vinyl fences withstand strong winds?",
+            "answer": "Yes, our vinyl fences are designed to withstand strong winds and are installed with proper post depth and spacing for added stability."
+          },
+          {
+            "question": "Do vinyl fences come with a warranty?",
+            "answer": "Yes, we offer a warranty on our vinyl fences to protect against defects in materials and workmanship."
+          }
+        ]
+      },
+      {
+        "slug": "chain-link-fences",
+        "name": "Chain Link Fences",
+        "shortDescription": "Affordable and secure chain link fences for residential and commercial properties.",
+        "description": "Chain link fences are a cost-effective and practical fencing solution for both residential and commercial properties in Long Beach. Known for their durability and security, chain link fences provide a reliable barrier without obstructing views. Innovative Fence, Inc. offers a variety of chain link fence options, including galvanized steel and vinyl-coated chain link, to meet your specific needs.\n\nOur chain link fences are ideal for securing yards, protecting pets, and creating boundaries around commercial properties. We offer different heights and gauges to suit your security requirements. Vinyl-coated chain link provides added protection against rust and corrosion, making it a great choice for our coastal environment.\n\nWe take pride in our professional installation services, ensuring your chain link fence is properly installed and securely anchored. We also offer gate installation and repair services to complete your fencing project. Whether you need a simple backyard fence or a high-security perimeter fence, Innovative Fence, Inc. can provide a chain link solution that meets your budget and needs.",
+        "process": [
+          "Step 1: Site Evaluation – We assess your property and determine the best chain link fence solution.",
+          "Step 2: Material Selection – We help you choose the right gauge and coating for your needs.",
+          "Step 3: Professional Installation – Our team ensures precise and secure installation.",
+          "Step 4: Gate Installation – We install gates to provide convenient access to your property."
+        ],
+        "benefits": [
+          "Affordable security",
+          "Durable and long-lasting",
+          "Low maintenance",
+          "Versatile applications"
+        ],
+        "faq": [
+          {
+            "question": "What is the difference between galvanized and vinyl-coated chain link?",
+            "answer": "Galvanized chain link is coated with zinc to prevent rust, while vinyl-coated chain link has an added layer of vinyl for enhanced protection and aesthetics."
+          },
+          {
+            "question": "How high should my chain link fence be for security?",
+            "answer": "A 6-foot or 8-foot chain link fence is typically recommended for security purposes."
+          },
+          {
+            "question": "Can you install a chain link fence on uneven terrain?",
+            "answer": "Yes, our experienced installers can adapt to uneven terrain and ensure your chain link fence is properly installed."
+          }
+        ]
+      },
+      {
+        "slug": "aluminum-fences",
+        "name": "Aluminum Fences",
+        "shortDescription": "Elegant and rust-proof aluminum fences for Long Beach homes.",
+        "description": "Aluminum fences offer a sophisticated and low-maintenance fencing solution for Long Beach homeowners. Known for their elegant appearance and rust-proof properties, aluminum fences provide a long-lasting and attractive barrier for your property. Innovative Fence, Inc. specializes in designing and installing custom aluminum fences that complement your home's architecture and enhance its curb appeal.\n\nOur aluminum fences are available in a variety of styles, from classic ornamental designs to modern minimalist styles. We use high-quality aluminum that is powder-coated for added durability and resistance to the elements. Aluminum fences are ideal for pool enclosures, garden borders, and perimeter fencing.\n\nWe understand the importance of proper installation, especially in an area with occasional seismic activity. Our experienced team ensures your aluminum fence is securely anchored and built to withstand the elements. We also offer a range of color options to match your home's exterior and landscaping. With an aluminum fence from Innovative Fence, Inc., you can enjoy a beautiful, long-lasting fence without the hassle of constant maintenance.",
+        "process": [
+          "Step 1: Design Consultation – We discuss your aesthetic preferences and fencing needs.",
+          "Step 2: Material Selection – We help you choose the perfect aluminum fence style and color.",
+          "Step 3: Professional Installation – Our team ensures precise and secure installation.",
+          "Step 4: Final Inspection – We conduct a thorough inspection to ensure your satisfaction."
+        ],
+        "benefits": [
+          "Rust-proof",
+          "Elegant appearance",
+          "Low maintenance",
+          "Variety of styles and colors"
+        ],
+        "faq": [
+          {
+            "question": "Will an aluminum fence rust?",
+            "answer": "No, aluminum is naturally rust-proof, making it an ideal choice for coastal environments."
+          },
+          {
+            "question": "Can aluminum fences be used for pool enclosures?",
+            "answer": "Yes, aluminum fences are a popular choice for pool enclosures due to their durability and aesthetic appeal."
+          },
+          {
+            "question": "Do aluminum fences require painting?",
+            "answer": "No, aluminum fences are powder-coated for long-lasting color and require no painting."
+          }
+        ]
+      },
+      {
+        "slug": "fence-repair",
+        "name": "Fence Repair",
+        "shortDescription": "Fast and reliable fence repair services in Long Beach and surrounding areas.",
+        "description": "Even the most durable fences can suffer damage from weather, accidents, or wear and tear. Innovative Fence, Inc. offers fast and reliable fence repair services in Long Beach and surrounding areas. Whether you have a broken post, a damaged panel, or a gate that won't close, our experienced team can quickly diagnose the problem and provide effective solutions.\n\nWe repair all types of fences, including wood, vinyl, chain link, and aluminum. We use high-quality materials and proven techniques to ensure your fence is restored to its original condition. We understand the importance of a secure and functional fence, so we respond quickly to repair requests and work efficiently to minimize disruption to your property.\n\nFrom minor repairs to major overhauls, Innovative Fence, Inc. is your trusted source for fence repair services. We offer competitive pricing and transparent estimates, so you know exactly what to expect. Don't let a damaged fence compromise your security or curb appeal – contact us today for fast and reliable fence repair.",
+        "process": [
+          "Step 1: Damage Assessment – We inspect your fence and identify the extent of the damage.",
+          "Step 2: Repair Plan – We develop a repair plan and provide a detailed estimate.",
+          "Step 3: Material Procurement – We source high-quality materials for the repair.",
+          "Step 4: Expert Repair – Our skilled team performs the necessary repairs."
+        ],
+        "benefits": [
+          "Fast response times",
+          "Experienced repair technicians",
+          "High-quality materials",
+          "Competitive pricing"
+        ],
+        "faq": [
+          {
+            "question": "Do you repair all types of fences?",
+            "answer": "Yes, we repair wood, vinyl, chain link, and aluminum fences."
+          },
+          {
+            "question": "How quickly can you respond to a repair request?",
+            "answer": "We strive to respond to repair requests within 24-48 hours."
+          },
+          {
+            "question": "Do you offer emergency fence repair services?",
+            "answer": "Yes, we offer emergency fence repair services for urgent situations."
+          }
+        ]
+      },
+      {
+        "slug": "gate-installation",
+        "name": "Gate Installation",
+        "shortDescription": "Secure and stylish gate installation services in Long Beach.",
+        "description": "A well-designed and properly installed gate is essential for providing secure access to your property. Innovative Fence, Inc. offers professional gate installation services in Long Beach, specializing in a variety of gate styles and materials to meet your specific needs. Whether you need a simple pedestrian gate or a sophisticated automatic gate, we can provide a solution that enhances your property's security and curb appeal.\n\nWe install all types of gates, including wood gates, vinyl gates, chain link gates, and aluminum gates. We offer custom designs to match your fence style and enhance your property's aesthetics. Our experienced team ensures precise installation, paying close attention to alignment, hardware, and security features.\n\nFor added convenience and security, we also offer automatic gate installation services. We can install a variety of automatic gate operators, including swing gates, slide gates, and barrier gates. Our automatic gates are equipped with safety features and can be controlled with remote controls, keypads, or smartphone apps. With a gate from Innovative Fence, Inc., you can enjoy secure and convenient access to your property.",
+        "process": [
+          "Step 1: Design Consultation – We discuss your gate needs and design preferences.",
+          "Step 2: Material Selection – We help you choose the right gate material and style.",
+          "Step 3: Professional Installation – Our team ensures precise and secure installation.",
+          "Step 4: Automation Options – We offer automatic gate installation and integration."
+        ],
+        "benefits": [
+          "Enhanced security",
+          "Improved curb appeal",
+          "Convenient access",
+          "Custom designs"
+        ],
+        "faq": [
+          {
+            "question": "What types of gates do you install?",
+            "answer": "We install wood gates, vinyl gates, chain link gates, and aluminum gates."
+          },
+          {
+            "question": "Do you install automatic gates?",
+            "answer": "Yes, we install a variety of automatic gate operators."
+          },
+          {
+            "question": "Can you match my existing fence style?",
+            "answer": "Yes, we can create a custom gate that matches your existing fence style."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Los Angeles",
+        "slug": "los-angeles-ca",
+        "state": "CA",
+        "content": "Innovative Fence, Inc. is proud to offer our comprehensive fencing services to the residents and businesses of Los Angeles. From the iconic architecture of the 1920s Spanish Colonial Revival homes to modern constructions, we understand the unique aesthetic and security needs of this vibrant city. We are committed to providing high-quality fence installation and repair services that complement the diverse architectural styles found throughout Los Angeles. \n\nOur team has extensive experience working in Los Angeles, navigating the city's specific permitting requirements and understanding the local climate. We offer a wide range of fencing options, including wood, vinyl, chain link, and wrought iron, ensuring we can find the perfect solution for your property. Whether you need a secure perimeter for your home, a stylish fence for your business, or a durable fence for your commercial property, Innovative Fence, Inc. is here to serve you.",
+        "localContext": "Los Angeles, with its warm, dry climate year-round and diverse architectural landscape, presents unique fencing challenges and opportunities.",
+        "nearbyAreas": [
+          "Beverly Hills",
+          "Santa Monica",
+          "Glendale"
+        ]
+      },
+      {
+        "city": "Pasadena",
+        "slug": "pasadena-ca",
+        "state": "CA",
+        "content": "Innovative Fence, Inc. is dedicated to providing exceptional fencing services to the Pasadena community. Known for its beautiful 1910s-30s Craftsman bungalows and historic charm, Pasadena requires a fencing contractor that understands the architectural integrity of the area. We specialize in fences that enhance the character of these homes while providing security and privacy.\n\nWe offer a variety of fencing styles to complement the Craftsman aesthetic, including wood fences with detailed trim, wrought iron fences with intricate designs, and vinyl fences that mimic the look of wood with added durability. Our team is experienced in working within Pasadena's specific building codes and regulations, ensuring a smooth and stress-free installation process. Let Innovative Fence, Inc. help you create a beautiful and functional outdoor space that complements your Pasadena home.",
+        "localContext": "Pasadena's blend of historic Craftsman architecture and warm, dry climate makes it crucial to choose fencing materials and styles that are both aesthetically pleasing and durable.",
+        "nearbyAreas": [
+          "Altadena",
+          "San Marino",
+          "South Pasadena"
+        ]
+      },
+      {
+        "city": "Irvine",
+        "slug": "irvine-ca",
+        "state": "CA",
+        "content": "Innovative Fence, Inc. is proud to serve the residents of Irvine with top-quality fencing solutions. As a master-planned community with homes primarily built from the 1970s to the present, Irvine presents a unique set of fencing needs. We understand the importance of maintaining the aesthetic appeal of the neighborhoods while providing security and privacy for homeowners.\n\nWe offer a wide range of fencing options to suit the diverse architectural styles found in Irvine, including vinyl fences that are low-maintenance and durable, wood fences that provide a classic look, and wrought iron fences that offer elegance and security. Our team is experienced in working within Irvine's specific HOA guidelines and regulations, ensuring a seamless and compliant installation process. Choose Innovative Fence, Inc. for all your fencing needs in Irvine.",
+        "localContext": "Irvine's master-planned communities and warm, dry climate necessitate durable and aesthetically pleasing fence options that adhere to HOA regulations.",
+        "nearbyAreas": [
+          "Tustin",
+          "Lake Forest",
+          "Newport Beach"
+        ]
+      },
+      {
+        "city": "Santa Clarita",
+        "slug": "santa-clarita-ca",
+        "state": "CA",
+        "content": "Innovative Fence, Inc. is your trusted fencing contractor in Santa Clarita. With its newer master-planned communities dating from the 1990s to the 2020s, Santa Clarita requires a fencing company that understands the modern aesthetic and security needs of its residents. We are committed to providing high-quality fence installation and repair services that enhance the beauty and value of your property.\n\nWe offer a variety of fencing styles to complement the contemporary architecture of Santa Clarita homes, including vinyl fences that are low-maintenance and durable, wood fences that provide a natural look, and wrought iron fences that offer elegance and security. Our team is experienced in working within Santa Clarita's specific building codes and HOA guidelines, ensuring a smooth and compliant installation process. Let Innovative Fence, Inc. help you create a safe and beautiful outdoor space in Santa Clarita.",
+        "localContext": "Santa Clarita's newer master-planned communities and warm dry climate require modern, durable fencing solutions that comply with HOA standards.",
+        "nearbyAreas": [
+          "Valencia",
+          "Canyon Country",
+          "Saugus"
+        ]
+      },
+      {
+        "city": "Torrance",
+        "slug": "torrance-ca",
+        "state": "CA",
+        "content": "Innovative Fence, Inc. is proud to offer our expert fencing services to the residents of Torrance. Known for its 1950s-60s post-war homes, Torrance requires a fencing contractor that understands the architectural nuances of the area. We specialize in fences that complement the classic designs while providing security and privacy.\n\nWe offer a range of fencing styles to suit the mid-century modern aesthetic, including wood fences with clean lines, chain link fences for practical security, and vinyl fences that offer a low-maintenance alternative. Our team is experienced in working within Torrance's specific building codes and regulations, ensuring a smooth and stress-free installation process. Choose Innovative Fence, Inc. to enhance your Torrance property with a beautiful and functional fence.",
+        "localContext": "Torrance, with its 1950s-60s post-war homes and warm, dry climate, demands fencing solutions that blend with the existing architecture and withstand the elements.",
+        "nearbyAreas": [
+          "Redondo Beach",
+          "Carson",
+          "Gardena"
+        ]
+      },
+      {
+        "city": "Long Beach",
+        "slug": "long-beach-ca",
+        "state": "CA",
+        "content": "As a local business, Innovative Fence, Inc. is deeply committed to serving the Long Beach community. We understand the diverse architectural styles and unique fencing needs of this vibrant city, from its historic neighborhoods to its modern developments. Our goal is to provide high-quality fence installation and repair services that enhance the beauty, security, and value of your property.\n\nWhether you're looking for a classic wood fence, a durable vinyl fence, a secure chain link fence, or an elegant wrought iron fence, we have the perfect solution for your needs. Our team is experienced in working within Long Beach's specific building codes and regulations, ensuring a smooth and stress-free installation process. Trust Innovative Fence, Inc. to provide you with the best fencing services in Long Beach.",
+        "localContext": "Long Beach's diverse neighborhoods and coastal climate require durable and aesthetically pleasing fencing options that can withstand the elements.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Signal Hill",
+          "Carson"
+        ]
+      },
+      {
+        "city": "Anaheim",
+        "slug": "anaheim-ca",
+        "state": "CA",
+        "content": "Innovative Fence, Inc. is dedicated to providing top-notch fencing services to the residents and businesses of Anaheim. From its historic districts to its modern developments, Anaheim presents a variety of fencing needs. We are committed to delivering high-quality fence installation and repair services that meet the unique requirements of each property.\n\nWe offer a wide range of fencing options to suit the diverse architectural styles found in Anaheim, including wood fences, vinyl fences, chain link fences, and wrought iron fences. Our team is experienced in working within Anaheim's specific building codes and regulations, ensuring a seamless and compliant installation process. Whether you need a secure perimeter for your business or a beautiful fence for your home, Innovative Fence, Inc. is here to help.",
+        "localContext": "Anaheim's mix of residential and commercial properties, along with its warm climate, necessitates durable and versatile fencing solutions.",
+        "nearbyAreas": [
+          "Fullerton",
+          "Orange",
+          "Garden Grove"
+        ]
+      },
+      {
+        "city": "Huntington Beach",
+        "slug": "huntington-beach-ca",
+        "state": "CA",
+        "content": "Innovative Fence, Inc. is proud to serve the community of Huntington Beach with our expert fencing services. Known as Surf City USA, Huntington Beach requires fencing solutions that can withstand the coastal climate and complement the beach lifestyle. We are committed to providing durable and aesthetically pleasing fences that enhance the beauty and security of your property.\n\nWe offer a variety of fencing options to suit the coastal environment, including vinyl fences that are resistant to salt air and moisture, wood fences that provide a natural look, and wrought iron fences that offer elegance and security. Our team is experienced in working within Huntington Beach's specific building codes and regulations, ensuring a smooth and compliant installation process. Choose Innovative Fence, Inc. for all your fencing needs in Huntington Beach.",
+        "localContext": "Huntington Beach's coastal climate and beach lifestyle require durable, weather-resistant fencing options that blend with the surrounding environment.",
+        "nearbyAreas": [
+          "Costa Mesa",
+          "Fountain Valley",
+          "Westminster"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Wood Fence Installation",
+        "text": "Innovative Fence did an amazing job installing our new redwood fence. The crew was professional, efficient, and the fence looks fantastic! It really enhances our property. Highly recommend!",
+        "date": "2025-05-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Chain Link Fence Repair",
+        "text": "Our chain link fence was damaged in a recent storm, and Innovative Fence came out quickly to repair it. They were able to fix it at a reasonable price, and now our yard is secure again. Great service!",
+        "date": "2025-04-22"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Vinyl Fence Installation",
+        "text": "We are so happy with our new vinyl fence! It looks great and requires no maintenance which is exactly what we wanted. The installation team was friendly and professional. Thanks, Innovative Fence!",
+        "date": "2025-03-10"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Gate Repair",
+        "text": "Our gate was sagging and difficult to open. Innovative Fence fixed it quickly and efficiently. Now it swings smoothly and closes securely. Excellent workmanship!",
+        "date": "2025-02-01"
+      },
+      {
+        "name": "Susan P.",
+        "rating": 4,
+        "service": "Aluminum Fence Installation",
+        "text": "We chose an aluminum fence for our pool area, and Innovative Fence did a fantastic job. The fence is beautiful and provides the safety we need. The team was professional and courteous throughout the entire process.",
+        "date": "2025-01-18"
+      },
+      {
+        "name": "Michael T.",
+        "rating": 5,
+        "service": "Wood Fence Installation",
+        "text": "From start to finish, the experience with Innovative Fence was seamless. They helped us design a fence that perfectly complements our Craftsman home in Belmont Shore. The quality of the materials and workmanship is outstanding.",
+        "date": "2024-12-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Innovative Fence, Inc. | Long Beach Fences",
+        "description": "Long Beach's trusted fence contractor. Wood, vinyl, chain link, & aluminum fences. Serving Los Angeles County with quality craftsmanship."
+      },
+      "about": {
+        "title": "About Innovative Fence, Inc. | Long Beach, CA",
+        "description": "Learn about Innovative Fence, Inc.'s commitment to quality and community in Long Beach. Serving Los Angeles County with durable, custom fences."
+      },
+      "services": {
+        "title": "Fence Services | Innovative Fence, Inc.",
+        "description": "Wood, vinyl, chain link & aluminum fence services in Long Beach, CA. Expert installation & repair for residential & commercial properties."
+      },
+      "contact": {
+        "title": "Contact Innovative Fence, Inc. | Long Beach, CA",
+        "description": "Contact Innovative Fence, Inc. for a free estimate on your fence project in Long Beach & surrounding areas. Serving Los Angeles County."
+      },
+      "reviews": {
+        "title": "Innovative Fence, Inc. Reviews | Long Beach, CA",
+        "description": "Read reviews from satisfied customers of Innovative Fence, Inc. in Long Beach, CA. Quality fence installation & repair services."
+      },
+      "service-areas": {
+        "title": "Service Areas | Innovative Fence, Inc.",
+        "description": "Innovative Fence, Inc. provides fence services throughout Los Angeles County, CA. Find out if we serve your area!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "wood-fences": "/images/service-wood-fences.webp",
+      "vinyl-fences": "/images/service-vinyl-fences.webp",
+      "chain-link-fences": "/images/service-chain-link-fences.webp",
+      "aluminum-fences": "/images/service-aluminum-fences.webp",
+      "fence-repair": "/images/service-fence-repair.webp",
+      "gate-installation": "/images/service-gate-installation.webp"
+    },
+    "servicesResponsive": {
+      "wood-fences": {
+        "src": "/images/service-wood-fences.webp",
+        "srcset": "/images/service-wood-fences-400w.webp 400w, /images/service-wood-fences-800w.webp 800w, /images/service-wood-fences-1200w.webp 1200w, /images/service-wood-fences.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-fences": {
+        "src": "/images/service-vinyl-fences.webp",
+        "srcset": "/images/service-vinyl-fences-400w.webp 400w, /images/service-vinyl-fences-800w.webp 800w, /images/service-vinyl-fences-1200w.webp 1200w, /images/service-vinyl-fences.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "chain-link-fences": {
+        "src": "/images/service-chain-link-fences.webp",
+        "srcset": "/images/service-chain-link-fences-400w.webp 400w, /images/service-chain-link-fences-800w.webp 800w, /images/service-chain-link-fences-1200w.webp 1200w, /images/service-chain-link-fences.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "aluminum-fences": {
+        "src": "/images/service-aluminum-fences.webp",
+        "srcset": "/images/service-aluminum-fences-400w.webp 400w, /images/service-aluminum-fences-800w.webp 800w, /images/service-aluminum-fences-1200w.webp 1200w, /images/service-aluminum-fences.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-repair": {
+        "src": "/images/service-fence-repair.webp",
+        "srcset": "/images/service-fence-repair-400w.webp 400w, /images/service-fence-repair-800w.webp 800w, /images/service-fence-repair-1200w.webp 1200w, /images/service-fence-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gate-installation": {
+        "src": "/images/service-gate-installation.webp",
+        "srcset": "/images/service-gate-installation-400w.webp 400w, /images/service-gate-installation-800w.webp 800w, /images/service-gate-installation-1200w.webp 1200w, /images/service-gate-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
